@@ -4,7 +4,7 @@
         "league/container": "^2.4",
         "respect/validation": "^1.1",
         "monolog/monolog": "^1.23",
-        "nesbot/carbon": "^1.29"
+        "nesbot/carbon": "^2.72"
     },
 	"autoload":{
 	    "psr-4":{
